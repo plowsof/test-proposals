@@ -1,3 +1,19 @@
+---
+layout: fr
+title: "Jumpers for hedgehogs"
+author: 
+date: October 20th 2028
+amount: 0.0215
+milestones:
+  - name: Begin proposal
+    funds: 0.0215
+    done:
+    status: unfinished
+payouts:
+  - date:
+    amount: 0.0215
+---
+
 ### WHO
 **Hedgehogs in Need Foundation (HNF)**  
 A non-profit dedicated to ensuring miniature hedgehogs survive winter with warmth, dignity, and moderately fashionable knitwear. Operated by volunteers, knitters with spare time, and at least one person who said, “How hard can hedgehog clothes be?”

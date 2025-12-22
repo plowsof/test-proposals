@@ -1,7 +1,7 @@
 ---
 layout: fr
 title: "Jumpers for hedgehogs"
-author: 
+author: hedgehog
 date: October 20th 2028
 amount: 0.0215
 milestones:

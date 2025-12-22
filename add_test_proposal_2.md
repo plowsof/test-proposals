@@ -14,5 +14,5 @@ payouts:
     amount: 0.0023
 ---
 
-200% upfront before i even explain this proposal. funding deadline is in 1 WEEK or im looking elsewhere for funding!
+200% upfront before i even explain this proposal. funding deadline is in 1 WEEK or im looking elsewhere for funding! as proof of work, i will add extra text to this proposal.
 

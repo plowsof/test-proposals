@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: "A proposal title"
+title: "An edited proposal title"
 author: n0ne
 date: October 20th 2033
 amount: 0.0023
